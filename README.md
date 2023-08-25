@@ -20,6 +20,10 @@ Etapes pour utiliser le projet
 
 Identification des membres de l'équipe.
 
+## Lien
+
+Lien vers le site du CEGEP
+
 ## Licence
 
 Informations sur la licence du projet.
