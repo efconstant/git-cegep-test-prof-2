@@ -19,12 +19,15 @@ Etapes pour utiliser le projet
 ## Equipe
 
 Identification des membres de l'équipe.
+- Membre 1
+- Membre n
 
 ## Lien
 
-Lien vers le site du CEGEP
+- <https://www.unlien.ca>
+
 
 ## Licence
 
-Informations sur la licence du projet.
+Informations sur la licence du projet, incluant  [un lien vers la licence](https://lien/vers/licence/).
 
