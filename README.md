@@ -2,7 +2,7 @@
 
 Titre de votre projet.
 
-## Description
+
 
 Description de votre projet.
 
