@@ -1,3 +1,5 @@
+[logo_cegep]
+
 # Titre du Projet
 
 Titre de votre projet.
