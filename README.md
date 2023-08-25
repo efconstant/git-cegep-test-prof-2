@@ -1,5 +1,9 @@
 # Titre du Projet
 
+Titre de votre projet.
+
+## Description
+
 Description de votre projet.
 
 ## Installation
@@ -8,11 +12,11 @@ Instructions pour installer le projet.
 
 ## Utilisation
 
-Comment utiliser le projet.
+Etapes pour utiliser le projet
 
-## Contribution
+## Equipe
 
-Comment contribuer au projet.
+Identification des membres de l'équipe.
 
 ## Licence
 
